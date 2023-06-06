@@ -8,8 +8,6 @@ You can find me at:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wevernek)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/wevernek)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wevernek&hide=pascal&layout=compact)](https://github.com/wevernek/github-readme-stats)
-
 ## ⚡ Technologies
 
 Some technologies that I use or have already used:
