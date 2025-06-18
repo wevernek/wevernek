@@ -1,6 +1,6 @@
 ## 👋 About me
 
-Hello everybody! My name is Pedro Albuquerque, I'm 26 years old, I have a degree in technology in systems analysis and development and a postgraduate degree in AI & ML. I am currently a senior software engineer at Santander Brazil ♨️ and I am working on a global application for controlling and managing infrastructure for the entire group.
+Hello everybody! My name is Pedro Albuquerque, I'm 26 years old, I have a degree in technology in systems analysis and development and a postgraduate degree in AI & ML. I am currently a IT Engineer Specialist at Santander Brazil ♨️ and I am working on a global application for controlling and managing infrastructure for the entire group.
 
 ## 💻 What have I been using in my work lately?
 
